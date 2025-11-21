@@ -475,9 +475,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Basic billing functionality
 - Local database support
 - Core CRUD operations
-
----
-
-**Made with ❤️ by KIIT Team**
-
-*For more information, please visit our [GitHub repository](https://github.com/your-username/BillEase) or contact the development team.*
